@@ -1,0 +1,8 @@
+- Added project description and objectives
+- Explained how the priority queue scheduler works
+- Included compilation and execution instructions
+- Provided sample input and output for clarity
+- Ready for GitHub showcase and placements
+- Implemented task scheduling using priority queue (max-heap)
+- Added README.md with project description, instructions, and sample output
+- Higher priority tasks are executed first
